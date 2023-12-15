@@ -1,1 +1,1 @@
-using API from https://www.googleapis.com/books/v1/
+using API from https://developers.google.com/books?hl=id
